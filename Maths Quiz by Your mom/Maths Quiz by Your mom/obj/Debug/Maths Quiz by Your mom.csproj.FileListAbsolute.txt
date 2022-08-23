@@ -1,0 +1,11 @@
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\bin\Debug\Maths Quiz by Your mom.exe.config
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\bin\Debug\Maths Quiz by Your mom.exe
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\bin\Debug\Maths Quiz by Your mom.pdb
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths Quiz by Your mom.csproj.AssemblyReference.cache
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths Quiz by Your mom.csproj.SuggestedBindingRedirects.cache
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths_Quiz_by_Your_mom.Form1.resources
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths_Quiz_by_Your_mom.Properties.Resources.resources
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths Quiz by Your mom.csproj.GenerateResource.cache
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths Quiz by Your mom.csproj.CoreCompileInputs.cache
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths Quiz by Your mom.exe
+C:\Users\infof\Desktop\documenti\AHK\Maths Quiz by Your mom\Maths Quiz by Your mom\obj\Debug\Maths Quiz by Your mom.pdb
